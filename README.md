@@ -6,7 +6,7 @@ Clone the Node-RED repository first:
 
 $ git clone https://github.com/node-red/node-red.git
 
-Build the container image:
+Put Dockerfile inside the node-red repo and build the container image:
 
 $ sudo docker build -t node-red .
 
